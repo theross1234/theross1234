@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a service provider platform**
 
-- 🌱 I’m currently learning **wordpress**
+- 🌱 I’m currently learning **n8n**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ross-pofelie-595061193/](https://www.linkedin.com/in/ross-pofelie-595061193/)
 
